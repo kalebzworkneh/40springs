@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# AWS Amplify
+amplify/
+# Build generated files
+build/
+dist/
