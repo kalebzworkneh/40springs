@@ -1,0 +1,1 @@
+{\n  "version": 1,\n  "frontend": {\n    "phases": {\n      "build": {\n        "commands": [\n          "npm run build"\n        ]\n      }\n    },\n    "artifacts": {\n      "baseDirectory": "build",\n      "files": ["**/*"]\n    },\n    "cache": {\n      "paths": ["node_modules/.cache/**/*"]\n    }\n  }\n}
